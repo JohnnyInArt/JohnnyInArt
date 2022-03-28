@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&duration=3333&color=F7BE2E&vCenter=true&multiline=true&height=80&width=300&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+github+page">
-<img src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/water.gif" width='600px' height="200px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&duration=3333&color=F7BE2E&vCenter=true&multiline=true&height=80&width=300&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+pool">
+<img src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/wave.gif" width='600px'>
 </a>
 
 ---
