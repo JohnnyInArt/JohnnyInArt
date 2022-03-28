@@ -2,7 +2,7 @@
  
 ---
 ### 📊 Some statistics
-### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/images/github.webp' width='25px'> My Github Stats:
+### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp' width='25px'> My Github Stats:
 <a  href="https://github.com/JohnnyInArt/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=github_dark">
 </a>
