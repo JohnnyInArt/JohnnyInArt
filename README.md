@@ -6,7 +6,7 @@
 </a>
 
 ---
-#### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/calsifer.gif' width='30px'> About me
+#### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/calsifer.gif' width='25px'> About me
 
 ---
 ### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp' width='25px'> My Github statistics
