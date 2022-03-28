@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&duration=3333&color=F7BE2E&vCenter=true&multiline=true&height=80&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+github+page">
 </a>
 <a>
-<img align="left" src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/spirit.gif">
+<img align="left" src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/spirit.gif" width='150px'>
 </a>
  
 ---
