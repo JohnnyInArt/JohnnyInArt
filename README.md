@@ -1,12 +1,12 @@
-### Hi there 👋
+<a href="https://git.io/typing-svg"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&duration=3333&color=F7BE2E&vCenter=true&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+github+page">
+</a>
  
 ---
-### 📊 Some statistics
-### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp' width='25px'> My Github Stats:
+### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp' width='25px'> My Github statistics:
 <a  href="https://github.com/JohnnyInArt/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=github_dark">
 </a>
 <a href="https://github.com/JohnnyInArt/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=github_dark" alt="JohnnyInArt's github stats" />
 </a>
-
