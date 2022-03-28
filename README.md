@@ -1,13 +1,11 @@
 ### Hi there 👋
  
  
-#### 📊 Some statistics
+### 📊 Some statistics
 
-<div align="center" >
-<a  href="https://github.com/JohnnyInArt">
-
-<img src="https://raw.githubusercontent.com/JohnnyInArt/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/JohnnyInArt/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-<img src="https://raw.githubusercontent.com/JohnnyInArt/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-
+<a  href="https://github.com/JohnnyInArt/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=github_dark">
+</a>
+<a href="https://github.com/JohnnyInArt/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=github_dark" alt="JohnnyInArt's github stats" />
 </a>
