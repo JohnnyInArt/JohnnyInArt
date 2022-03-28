@@ -6,7 +6,7 @@
 </a>
 
 ---
-#### <img align="right" src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/calsifer.gif' width='25px' > About me
+#### <img align="left" src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/calsifer.gif' width='20px' > About me
 
 
 ---
