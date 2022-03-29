@@ -2,8 +2,6 @@
 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=300&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+pool">
-
-<img algin="right" src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/hand.gif" width="50px">
 <img src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/wave.gif" width="auto">
 </a>
 
