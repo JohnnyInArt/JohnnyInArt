@@ -20,9 +20,11 @@ class MySelf:
                          '\t\tUniversity: ⚜️ Florence\n'
         self.hobbies = '📸 Photography, 🌍 Travelling\n'
         self.interests = '📗 Book, 🌳 Nature, 📜 History\n'
+
     def hello(self):
         print(me.name, me.languages,me.education,me.hobbies,me.interests)
         print("Thanks for dropping by, hope you find some of my work interesting.")
+        
 me = MySelf()
 me.hello()
 ```
