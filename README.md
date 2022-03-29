@@ -30,9 +30,6 @@ class MySelf:
 me = MySelf()
 me.hello()
 ```
-<a href="https://github.com/JohnnyInArt">
-<img align="center" src="https://raw.githubusercontent.com/JohnnyInArt/JohnnyInArt/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
-</a>
 
 ---
 ### <img src='https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp' width='25px'> My Github statistics
