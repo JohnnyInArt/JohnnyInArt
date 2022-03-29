@@ -18,13 +18,13 @@ class MySelf:
         self.name = '🐻 Gianni\n'
         self.languages = '🇮🇹 it_IT, 🇬🇧 en_GB\n'
         self.education = 'BSc:' \
-                         '\tDegree: 🖥️ Computer Science\n' \
-                         '\t\tUniversity: ⚜️ Florence\n'
+                         'Degree: 🖥️ Computer Science\n' \
+                         'University: ⚜️ Florence\n'
         self.hobbies = '📸 Photography, 🌍 Travelling\n'
         self.interests = '📗 Book, 🌳 Nature, 📜 History\n'
 
     def hello(self):
-        print(me.name, me.languages,me.education,me.hobbies,me.interests)
+        print(me.name, me.languages, me.education, me.hobbies, me.interests)
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
 me = MySelf()
