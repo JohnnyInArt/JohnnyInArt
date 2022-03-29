@@ -11,7 +11,9 @@
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 class MySelf:
+
     def __init__(self):
         self.name = '🐻 Gianni\n'
         self.languages = '🇮🇹 it_IT, 🇬🇧 en_GB\n'
