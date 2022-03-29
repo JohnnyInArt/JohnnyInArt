@@ -1,5 +1,17 @@
-- name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v1.1.2
+- 
+name: generate github-contribution-grid-snake.svg
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+
+jobs:
+  build:
+    name: Jobs to update datas
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: JohnnyInArt
           svg_out_path: dist/github-contribution-grid-snake.svg
