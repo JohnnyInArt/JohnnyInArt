@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=320&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island">
-<img src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/island.gif" width="350">
+<img src="images/island.gif" width="350">
 </a>
 
 ---
-#### <img  src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/calsifer.gif" width="25px" > About me
+#### <img  src="images/calsifer.gif" width="25px" > About me
 
 ```python
 #!/usr/bin/python
@@ -32,7 +32,7 @@ me.hello()
 ```
 
 ---
-### <img src="https://github.com/JohnnyInArt/JohnnyInArt/blob/main/images/github.webp" width="25px"> My Github statistics
+### <img src="images/github.webp" width="25px"> My Github statistics
 
 <a  href="https://github.com/JohnnyInArt/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=slateorange">
