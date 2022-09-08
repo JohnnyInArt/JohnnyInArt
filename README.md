@@ -1,8 +1,9 @@
-
+<a>
+<img align="right" src="images/island.gif" width="320" hight="200">
+</a>
 
 <a href="https://git.io/typing-svg"> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=320&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island">
-<img src="images/island.gif" width="25px">
+<img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=4500&color=F7BE2E&size=50&multiline=false&height=150&width=400&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island" alt="Typing SVG">
 </a>
 
 ---
@@ -34,7 +35,7 @@ me.hello()
 ---
 ### <img src="images/github.webp" width="25px"> My Github statistics
 
-<a  href="https://github.com/JohnnyInArt/">
+<a href="https://github.com/JohnnyInArt/">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=slateorange">
 </a>
 <a href="https://github.com/JohnnyInArt/">
