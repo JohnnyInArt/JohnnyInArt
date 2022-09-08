@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=320&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island">
-<img src="images/island.gif" width="350">
+<img src="images/island.gif" width="300">
 </a>
 
 ---
@@ -38,5 +38,5 @@ me.hello()
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=slateorange">
 </a>
 <a href="https://github.com/JohnnyInArt/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=slateorange" alt="JohnnyInArt's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=slateorange&count_private=true&hide=stars" alt="JohnnyInArt's github stats" />
 </a>
