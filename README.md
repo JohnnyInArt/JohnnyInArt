@@ -1,7 +1,7 @@
 
 
 <a href="https://git.io/typing-svg"> 
-<img align="right" src="images/island.gif" width="300px">
+<img align="right" src="images/island.gif" width="25px">
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=320&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island">
 </a>
 
