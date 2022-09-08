@@ -2,11 +2,11 @@
 
 <a href="https://git.io/typing-svg"> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Shadows+Into+Light&center=true&duration=3333&color=F7BE2E&vCenter=true&size=40&multiline=true&height=150&width=320&lines=Hi+there+%F0%9F%91%8B;Welcome+to+my+island">
-<img src="images/island.gif" width="300">
+<img align="right" src="images/island.gif" width="300">
 </a>
 
 ---
-#### <img  src="images/calsifer.gif" width="25px" > About me
+#### <img src="images/calsifer.gif" width="25px" > About me
 
 ```python
 #!/usr/bin/python
