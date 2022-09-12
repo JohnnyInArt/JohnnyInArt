@@ -36,8 +36,8 @@ me.hello()
 ### <img src="images/github.webp" width="25px"> My Github statistics
 
 <a href="https://github.com/JohnnyInArt/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&layout=compact&hide=html&theme=codeSTACKr" alt="top langs">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&layout=compact&hide=html&theme=city_lights" alt="top langs">
 </a>
 <a href="https://github.com/JohnnyInArt/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=codeSTACKr&count_private=true&hide=stars" alt="JohnnyInArt's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&count_private=true&hide=stars&theme=city_lights" alt="JohnnyInArt's github stats" />
 </a>
