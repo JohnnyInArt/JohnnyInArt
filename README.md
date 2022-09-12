@@ -1,5 +1,5 @@
 <a>
-<img align="right" src="images/island.gif" width="320" hight="200">
+<img align="right" src="images/island.gif" alt="island" width="320" hight="200">
 </a>
 
 <a href="https://git.io/typing-svg"> 
@@ -7,7 +7,7 @@
 </a>
 
 ---
-#### <img src="images/calsifer.gif" width="25px" > About me
+#### <img src="images/calsifer.gif" width="25px" alt="calsifer"> About me
 
 ```python
 #!/usr/bin/python
@@ -36,7 +36,7 @@ me.hello()
 ### <img src="images/github.webp" width="25px"> My Github statistics
 
 <a href="https://github.com/JohnnyInArt/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&hide=html&theme=slateorange">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyInArt&layout=compact&hide=html&theme=slateorange" alt="top langs">
 </a>
 <a href="https://github.com/JohnnyInArt/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JohnnyInArt&count_private=true&show_icons=true&theme=slateorange&count_private=true&hide=stars" alt="JohnnyInArt's github stats" />
